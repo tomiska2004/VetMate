@@ -1,6 +1,6 @@
 # VetMate
 [Szocs_Nandor_szakdolgozat_Angol.pptx](https://github.com/user-attachments/files/22311233/Szocs_Nandor_szakdolgozat_Angol.pptx)
-This application is under development, in good case will be published on appstore so thats why the source code is private.
+This application is currently under development. If successful, it will be published on the App Store. Therefore, the source code is private and not publicly available.
 <img width="1170" height="2532" alt="IMG_9636" src="https://github.com/user-attachments/assets/4d3d5853-0faf-4a90-b1a5-6b8a076b7707" />
 <img width="1170" height="2532" alt="IMG_9635" src="https://github.com/user-attachments/assets/8d6997c3-8d20-461a-951b-817fad518f60" />
 <img width="1170" height="2532" alt="IMG_9631" src="https://github.com/user-attachments/assets/0f79c87f-c4c2-480a-ae90-7af7a08a6924" />
